@@ -7,11 +7,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-A data-driven personal website
+About Me
 =====
-I am a PhD candidate at MIT MechE and work with Prof. Josh McDermott in MIT's Laboratory for Computational Audition. My research aims at understanding how physical generative processes assist humans and artificial agents in making rich inferences about the world using sound. More broadly, I am intersted in the physics underlying  natural and musical sound prediction and how humans are able to make rich inferences from the sounds they are. I am also a semi-professional Indian classical musician and a Mohan Veena artist.
+I am a PhD candidate at MIT MechE and work with Prof. Josh McDermott in MIT's Laboratory for Computational Audition. My research aims at understanding how physical generative processes assist humans and artificial agents in making rich inferences about the world using sound. More broadly, I am intersted in the physics underlying  natural and musical sound prediction and how humans are able to make rich inferences from the sounds they are. 
 
-A data-driven personal website
+Before this, I graduated from IIT Bombay with a BTech & MTech in Mechanical Engineering with a focus on acoustics and automation. For my masters thesis, I worked with Prof. Sripriya Ramamoorthy on inverse acoustic characterization of periodic reticulated foam. During my undergrad, I worked with Dr. Mitsuko Aramaki and Dr. Richard Kronland-Martinet at Laboratoire of de mecanique et d'acoustique (LMA), CNRS, Marseille, France on the SoniMove project and with Prof. Arne Eigenfeldt at Simon Fraser University on automatic song transcription.
+
+I am also a semi-professional Indian classical musician and a Mohan Veena artist.
+
+Current Research
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
