@@ -9,11 +9,11 @@ redirect_from:
 ---
 About Me
 =====
-I am a PhD candidate at MIT MechE and work with Prof. Josh McDermott in MIT's Laboratory for Computational Audition. My research aims at understanding how physical generative processes assist humans and artificial agents in making rich inferences about the world using sound. More broadly, I am intersted in the physics underlying  natural and musical sound prediction and how humans are able to make rich inferences from the sounds they are. 
+I am a PhD candidate at MIT MechE and work with Prof. Josh McDermott in MIT's [Laboratory for Computational Audition](https://mcdermottlab.mit.edu/). My research aims at understanding how physical generative processes assist humans and artificial agents in making rich inferences about the world using sound. More broadly, I am intersted in the physics underlying  natural and musical sound prediction and how humans are able to make rich inferences from the sounds they are. 
 
-Before this, I graduated from IIT Bombay with a BTech & MTech in Mechanical Engineering with a focus on acoustics and automation. For my masters thesis, I worked with Prof. Sripriya Ramamoorthy on inverse acoustic characterization of periodic reticulated foam. During my undergrad, I worked with Dr. Mitsuko Aramaki and Dr. Richard Kronland-Martinet at Laboratoire of de mecanique et d'acoustique (LMA), CNRS, Marseille, France on the SoniMove project and with Prof. Arne Eigenfeldt at Simon Fraser University on automatic song transcription.
+Before this, I graduated from IIT Bombay with a BTech & MTech in Mechanical Engineering with a focus on acoustics and automation. For my masters thesis, I worked with [Prof. Sripriya Ramamoorthy](https://sites.google.com/site/auditoryandacousticslab/home) on inverse acoustic characterization of periodic reticulated foam. During my undergrad, I worked with [Dr. Mitsuko Aramaki](http://kronland.fr/topics/mitsuko-aramaki/) and [Dr. Richard Kronland-Martinet](https://kronland.fr/) at Laboratoire of de mecanique et d'acoustique (LMA), CNRS, Marseille, France on the SoniMove project and with [Prof. Arne Eigenfeldt](http://www.sfu.ca/~eigenfel/arne/about.html) at Simon Fraser University on automatic song transcription.
 
-I am also a semi-professional Indian classical musician and a Mohan Veena artist.
+I am also a semi-professional [Indian classical musician](https://www.youtube.com/watch?v=RX8kgRuJnr4) and [Mohan Veena](https://en.wikipedia.org/wiki/Mohan_veena) artist. 
 
 Current Research Projects
 ======
