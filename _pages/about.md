@@ -22,16 +22,31 @@ Synthesis and perception of Rigid-Body Contact sounds
 -----
 Instantaneous and sustained contact between rigid bodies produce characteristic sounds. Human Listeners often use these sounds to make rich inferences about the world around them. Through this project, we aim to understand how the governing physics of these object interactions lead to the sounds that we hear and how humans solve the inverse problem to infer the physics from these sounds. In particular, we focus on impacts, scrapes, rolls and their combinations.
 
-in DAFx 2021, we presented novel models for perceptually relevant synthesis of scraping and rolling sounds. 
+in DAFx 2021, we presented novel state-of-the-art models for perceptually relevant synthesis of scraping and rolling sounds. We added non-linear physical constraints to physics inspired source-filter models to synthesize realistic sounds with perceptually relevant control knobs. We also performed psychophysics experiments to show that these models produced significatly more realistic sounds than the previous models in literature. Another set of experiments show that scraping trajectory information conveyed through the sounds from these models is significantly more similar to the information conveyed by real-world recordings of these sounds.
+
+Currently, we are investigating how human listeners are able to separate out and use different stages of the physical generative process from the overall contact sounds they hear. For example, we seek to understand how they solve the ill-posed problem of separating reverb of the environment from the sounds of impact from an object.
+
+
+ThreeDWorld
+------
+
+[TDW](https://www.threedworld.org/) is a 3D virtual world simulation platform, utilizing state-of-the-art video game engine technology. We are integrating the sound synthesis models we developed for impacts, scrapes and rolls into TDW to transform it into the only virtual world simulation platform to have physics based synthesis of contact sounds. 
+
+TDW provides researchers with:
+
+1. A general, flexible design that does not impose constraints on the types of use-cases it can support, nor force any particular metaphor on the user.
+2. Support for multiple modalities -- visual rendering with near-photoreal image quality, coupled with superior audio rendering fidelity.
+3. A comprehensive, highly extensible and thoroughly documented command and control Python API.
+4. Multiple paradigms for object interaction, capable of generating physically-realistic behavior.
+
+Impact sound synthesis has already been released. Stay tuned for future updates with scraping and rolling synthesis.
 
 Percpetual representations of musical instruments
 ------
 
 asdasdasdasdasdasdasdasdasdasd
 
-ThreeDWorld
-------
-ihjueiorugheiru
+
 
 
 Getting started
