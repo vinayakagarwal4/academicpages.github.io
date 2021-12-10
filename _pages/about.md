@@ -18,11 +18,11 @@ I am also a semi-professional Indian classical musician and a Mohan Veena artist
 Current Research Projects
 ======
 
-Perception of Contact sounds
+Synthesis and perception of Rigid-Body Contact sounds
 -----
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Instantaneous and sustained contact between rigid bodies produce characteristic sounds. Human Listeners often use these sounds to make rich inferences about the world around them. Through this project, we aim to understand how the governing physics of these object interactions lead to the sounds that we hear and how humans solve the inverse problem to infer the physics from these sounds. In particular, we focus on impacts, scrapes, rolls and their combinations.
 
-Perceptually relevant synthesis o
+in DAFx 2021, we presented novel models for perceptually relevant synthesis of scraping and rolling sounds. 
 
 Percpetual representations of musical instruments
 ------
