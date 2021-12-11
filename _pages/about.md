@@ -9,7 +9,7 @@ redirect_from:
 ---
 About Me
 =====
-I am a PhD candidate at MIT MechE and work with Prof. Josh McDermott in MIT's [Laboratory for Computational Audition](https://mcdermottlab.mit.edu/). My research aims at understanding how physical generative processes assist humans and artificial agents in making rich inferences about the world using sound. More broadly, I am intersted in the physics underlying  natural and musical sound prediction and how humans are able to make rich inferences from the sounds they are. 
+I am a PhD candidate at MIT MechE and work with [Prof. Josh McDermott](https://web.mit.edu/jhm/www/) in MIT's [Laboratory for Computational Audition](https://mcdermottlab.mit.edu/). My research aims at understanding how physical generative processes assist humans and artificial agents in making rich inferences about the world using sound. More broadly, I am intersted in the physics underlying  natural and musical sound prediction and how humans are able to make rich inferences from the sounds they are. 
 
 Before this, I graduated from IIT Bombay with a BTech & MTech in Mechanical Engineering with a focus on acoustics and automation. For my masters thesis, I worked with [Prof. Sripriya Ramamoorthy](https://sites.google.com/site/auditoryandacousticslab/home) on inverse acoustic characterization of periodic reticulated foam. During my undergrad, I worked with [Dr. Mitsuko Aramaki](http://kronland.fr/topics/mitsuko-aramaki/) and [Dr. Richard Kronland-Martinet](https://kronland.fr/) at Laboratoire of de mecanique et d'acoustique (LMA), CNRS, Marseille, France on the SoniMove project and with [Prof. Arne Eigenfeldt](http://www.sfu.ca/~eigenfel/arne/about.html) at Simon Fraser University on automatic song transcription.
 
@@ -41,7 +41,7 @@ TDW provides researchers with:
 
 Impact sound synthesis has already been released. Stay tuned for future updates with scraping and rolling synthesis.
 
-Percpetual representations of musical instrument timbre
+Perceptual representations of musical instrument timbre
 ------
 Timbre is usually defined as the character or quality of a musical sound or voice as distinct from its pitch and intensity. Musical instrument timbre poses as an interesting recognition problem in human listeners as there is a possibility of some internalized generative structures like in speech. 
 
