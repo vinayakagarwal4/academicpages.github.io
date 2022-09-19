@@ -15,7 +15,7 @@ Before this, I graduated from IIT Bombay with a BTech & MTech in Mechanical Engi
 
 I am also a semi-professional [Indian classical musician](https://www.youtube.com/watch?v=RX8kgRuJnr4) and [Mohan Veena](https://en.wikipedia.org/wiki/Mohan_veena) artist.
 
-Here is my [CV](https://vinayak-agarwal.com/files/vinayak_cv_Aug8_2022.pdf) if you are interested to know more.
+Here is my [CV](https://vinayak-agarwal.com/files/vinayak_cv_sep17.pdf) if you are interested to know more.
 
 Current Research Projects
 ======
