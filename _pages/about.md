@@ -43,6 +43,13 @@ TDW provides researchers with:
 
 Impact sound synthesis has already been released. Stay tuned for future updates with scraping and rolling synthesis.
 
+Cross-modal perception of physics
+------
+It is hypothesized that humans use internalized models of physics as bridges to combine information from different sensory modalities. In this research project, we are evaluating how humans- 
+1. infer physical parameters of a scene by combining information from audition and vision
+2. combine cues from audition and vision using internalized physics-based world models
+3. rely on cues from different modalities to infer different physical parameters
+
 Perceptual representations of musical instrument timbre
 ------
 Timbre is usually defined as the character or quality of a musical sound or voice as distinct from its pitch and intensity. Musical instrument timbre poses as an interesting recognition problem in human listeners as there is a possibility of some internalized generative structures like in speech. 
