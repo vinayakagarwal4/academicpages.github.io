@@ -20,14 +20,16 @@ Here is my [CV](https://vinayak-agarwal.com/files/vinayak_cv.pdf) if you are int
 Current Research Projects
 ======
 
-Synthesis and perception of Rigid-Body Contact sounds
+Synthesis and perception of Rigid-Body Contact sounds (Auditory intuitive physics)
 -----
 Instantaneous and sustained contact between rigid bodies produce characteristic sounds. Human Listeners often use these sounds to make rich inferences about the world around them. Through this project, we aim to understand how the governing physics of these object interactions lead to the sounds that we hear and how humans solve the inverse problem to infer the physics from these sounds. In particular, we focus on impacts, scrapes, rolls and their combinations.
 
 in DAFx 2021, we presented novel state-of-the-art models for perceptually relevant synthesis of scraping and rolling sounds. We added non-linear physical constraints to physics inspired source-filter models to synthesize realistic sounds with perceptually relevant control knobs. We also performed psychophysics experiments to show that these models produced significatly more realistic sounds than the previous models in literature. Another set of experiments show that scraping trajectory information conveyed through the sounds from these models is significantly more similar to the information conveyed by real-world recordings of these sounds.
 
-Currently, we are investigating how human listeners are able to separate out and use different stages of the physical generative process from the overall contact sounds they hear. For example, we seek to understand how they solve the ill-posed problem of separating reverb of the environment from the sounds of impact from an object.
-
+Currently, we are testing -
+1. how human listeners are able to separate out and use different stages of the physical generative process from the overall contact sounds they hear. For example, we seek to understand how they solve the ill-posed problem of separating reverb of the environment from the sounds of impact from an object.
+2. whether humans infer physical parameters from sound and use them to make predictions about the future of the auditory scene and the latent physical scene.
+3. if sound-derived physical represntations of objects are shared across types of contact sounds
 
 ThreeDWorld
 ------
