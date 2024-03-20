@@ -9,7 +9,9 @@ redirect_from:
 ---
 About Me
 =====
-I am a PhD candidate at MIT MechE and work with [Prof. Josh McDermott](https://web.mit.edu/jhm/www/) in MIT's [Laboratory for Computational Audition](https://mcdermottlab.mit.edu/). My research aims at understanding how physical generative processes assist humans and artificial agents in making rich inferences about the world using sound. More broadly, I am intersted in the physics underlying  natural and musical sound prediction and how humans are able to make rich inferences from the sounds they are. 
+I am a PhD candidate at MIT MechE and work with [Prof. Josh McDermott](https://web.mit.edu/jhm/www/) in MIT's [Laboratory for Computational Audition](https://mcdermottlab.mit.edu/). My research aims at understanding how physical generative processes assist humans and artificial agents in making rich inferences about the world using sound. More broadly, I am intersted in the physics underlying  natural and musical sound prediction and how humans are able to make rich inferences from the sounds they are.
+
+In the summer of 2023, I worked with the audio presence at Meta Reality Labs to help augment spatial audio rendering on smart glasses and develop models of online sound synthesis.
 
 Before this, I graduated from IIT Bombay with a BTech & MTech in Mechanical Engineering with a focus on acoustics and automation. For my masters thesis, I worked with [Prof. Sripriya Ramamoorthy](https://sites.google.com/site/auditoryandacousticslab/home) on inverse acoustic characterization of periodic reticulated foam. During my undergrad, I worked with [Dr. Mitsuko Aramaki](http://kronland.fr/topics/mitsuko-aramaki/) and [Dr. Richard Kronland-Martinet](https://kronland.fr/) at Laboratoire of de mecanique et d'acoustique (LMA), CNRS, Marseille, France on the SoniMove project and with [Prof. Arne Eigenfeldt](http://www.sfu.ca/~eigenfel/arne/about.html) at Simon Fraser University on automatic song transcription.
 
@@ -20,6 +22,10 @@ Here is my [CV](https://vinayak-agarwal.com/files/vinayak_cv.pdf) if you are int
 Current Research Projects
 ======
 
+Sample-efficient learning of object representations from audio
+-----
+In this research program, we design computational frameworks based on intuitive physics that allow for sample-efficient online learning of object representations through sound. We have found that if we  accurately model the physical aspects of the generative process that human listeners might be sensitive to, we are able to learn peceptually-salient material encodings with only a handful of training examples. This aims at computationally explaining the human ability of few shot learning through audio
+
 Synthesis and perception of Rigid-Body Contact sounds (Auditory intuitive physics)
 -----
 Instantaneous and sustained contact between rigid bodies produce characteristic sounds. Human Listeners often use these sounds to make rich inferences about the world around them. Through this project, we aim to understand how the governing physics of these object interactions lead to the sounds that we hear and how humans solve the inverse problem to infer the physics from these sounds. In particular, we focus on impacts, scrapes, rolls and their combinations.
@@ -27,7 +33,7 @@ Instantaneous and sustained contact between rigid bodies produce characteristic 
 in DAFx 2021, we presented novel state-of-the-art models for perceptually relevant synthesis of scraping and rolling sounds. We added non-linear physical constraints to physics inspired source-filter models to synthesize realistic sounds with perceptually relevant control knobs. We also performed psychophysics experiments to show that these models produced significatly more realistic sounds than the previous models in literature. Another set of experiments show that scraping trajectory information conveyed through the sounds from these models is significantly more similar to the information conveyed by real-world recordings of these sounds.
 
 Currently, we are testing -
-1. how human listeners are able to separate out and use different stages of the physical generative process from the overall contact sounds they hear. For example, we seek to understand how they solve the ill-posed problem of separating reverb of the environment from the sounds of impact from an object.
+1. how human listeners are able to separate out and use different stages of the physical generative process from the contact sounds they hear. For example, we seek to understand how they solve the ill-posed problem of separating reverb of the environment from the sounds of impact from an object.
 2. whether humans infer physical parameters from sound and use them to make predictions about the future of the auditory scene and the latent physical scene.
 3. if sound-derived physical represntations of objects are shared across types of contact sounds
 
