@@ -11,7 +11,7 @@ About Me
 =====
 I am a PhD candidate at MIT MechE and work with [Prof. Josh McDermott](https://web.mit.edu/jhm/www/) in MIT's [Laboratory for Computational Audition](https://mcdermottlab.mit.edu/). My research aims at understanding how physical generative processes assist humans and artificial agents in making rich inferences about the world using sound. More broadly, I am intersted in the physics underlying  natural and musical sound prediction and how humans are able to make rich inferences from the sounds they are.
 
-In the summer of 2023, I worked with the audio presence at Meta Reality Labs to help augment spatial audio rendering on smart glasses and develop models of online sound synthesis.
+In the summer of 2023, I worked with the audio presence team at Meta Reality Labs Research to help augment spatial audio rendering on smart glasses and develop models of online sound synthesis.
 
 Before this, I graduated from IIT Bombay with a BTech & MTech in Mechanical Engineering with a focus on acoustics and automation. For my masters thesis, I worked with [Prof. Sripriya Ramamoorthy](https://sites.google.com/site/auditoryandacousticslab/home) on inverse acoustic characterization of periodic reticulated foam. During my undergrad, I worked with [Dr. Mitsuko Aramaki](http://kronland.fr/topics/mitsuko-aramaki/) and [Dr. Richard Kronland-Martinet](https://kronland.fr/) at Laboratoire of de mecanique et d'acoustique (LMA), CNRS, Marseille, France on the SoniMove project and with [Prof. Arne Eigenfeldt](http://www.sfu.ca/~eigenfel/arne/about.html) at Simon Fraser University on automatic song transcription.
 
